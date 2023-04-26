@@ -1,0 +1,30 @@
+Lastname: 
+Firstname: 
+Username: 
+Password: 
+Gender: Male
+Marital status: single
+Hobbies: 
+Personal statement: 
+
+
+Lastname: fasasi
+Firstname: hafis
+Username: harhfeez
+Password: adg
+Gender: Male
+Marital status: single
+Hobbies: flexing 
+Personal statement:  i am pythonista
+
+
+Lastname: 
+Firstname: 
+Username: 
+Password: 
+Gender: Male
+Marital status: single
+Hobbies: 
+Personal statement: 
+
+

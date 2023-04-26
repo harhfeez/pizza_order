@@ -1,0 +1,12 @@
+Pizza Size: Large 	 3500
+Toppings: Sausage 	 150
+		Pepperoni 	 150
+		Chicken 	 150
+		
+Total: 3950
+
+Pizza Size: Medium 	 2500
+Toppings: Black Olive 	 100
+		
+Total: 2600
+
